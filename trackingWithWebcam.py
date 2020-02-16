@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on DEC 02 13:16:15 2019
+
+@author: Saif
+"""
+
 # USAGE
 # python pan_tilt_tracking.py --cascade haarcascade_frontalface_default.xml
 
